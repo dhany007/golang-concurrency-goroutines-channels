@@ -1,0 +1,2 @@
+<b>Goroutines</b> and <b>Channels</b> are a lightweight built-in feature for managing concurrency and communication between several functions executing at the same time. This way, one can write code that executes outside of the main program so it doesn’t interrupt it and returns a value or values (or nothing if it’s just an independent operation). Go has two keywords for this: `go` and `chan`.
+<p>
